@@ -5,4 +5,4 @@
 Начало работы: 
 
     pip install -r requirements.txt
-Код для тренировки модели расположен в `NOT_training_strong.ipynb`.
+Код для тренировки модели расположен в `train determinate map.ipynb`.
